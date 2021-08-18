@@ -6,6 +6,8 @@ List of paste bins of Syndicate members
 
 📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
 
+_avestura/bin_
+
 - Editor: CodeMirror 6
 - Backend Language: TypeScript
 - Frontned Language: TypeScript
