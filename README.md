@@ -36,6 +36,12 @@ List of paste bins of Syndicate members
 
 📄 [b.sitischu.com](https://b.sitischu.com/) / [Source](https://github.com/mojurasu/memocho) (🍴 Fork of mkr/bin)
 
+- Editor: Vanilla HTML
+- Backend Language: JavaScript
+- Frontend Language: JavaScript
+- Frontend Framework: Mithril
+- Storage: File System
+
 ### Spark
 
 📄 [pupr.io](https://pupr.io) / [Source](https://github.com/fosslife/bin)
