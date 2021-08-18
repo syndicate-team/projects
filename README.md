@@ -9,7 +9,7 @@ List of paste bins of Syndicate members
 - Editor: CodeMirror 6
 - Backend Language: TypeScript
 - Frontned Language: TypeScript
-- FrontEnd Framework: React / Next / Blueprint
+- Frontend Framework: React / Next / Blueprint
 - Storage: S3 Compatible MinIO Object Storage
 
 ### Darvesh
