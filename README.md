@@ -10,7 +10,7 @@ _mkr/bin_
 📄 [bin.mkr.pw](https://bin.mkr.pw/) / [Source](https://github.com/MKRhere/bin) 
 
 - Editor: Vanilla HTML
-- Backend Language: JavaScript
+- Backend Language: JavaScript / Node
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril SSR
 - Storage: MongoDB
@@ -22,7 +22,7 @@ _mojurasu/memocho_
 📄 [b.sitischu.com](https://b.sitischu.com/) / [Source](https://github.com/mojurasu/memocho) / 🍴 Fork of _"mkr/bin"_
 
 - Editor: Vanilla HTML
-- Backend Language: JavaScript
+- Backend Language: JavaScript / Node
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril SSR
 - Storage: MongoDB
@@ -34,10 +34,22 @@ _darvesh/drvsh_
 📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) / 🍴 Fork of _"mojurasu/memocho"_
 
 - Editor: Vanilla HTML
-- Backend Language: JavaScript
+- Backend Language: JavaScript / Node
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril SSR
 - Storage: MongoDB
+
+### Thomas
+
+_trgwii/pastebin_
+
+📄 [home.rory.no](https://home.rory.no/) / [Source](https://github.com/trgwii/pastebin)
+
+- Editor: Monaco Editor
+- Backend Language: TypeScript / Deno
+- Frontend Language: TypeScript
+- Frontend Framework: Vanilla HTML
+- Storage: File System
 
 ### Spark
 
@@ -70,7 +82,7 @@ _avestura/bin_
 📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
 
 - Editor: CodeMirror 6
-- Backend Language: TypeScript
+- Backend Language: TypeScript / Node
 - Frontend Language: TypeScript
 - Frontend Framework: React / Next / Blueprint
 - Storage: S3 Compatible MinIO Object Storage
