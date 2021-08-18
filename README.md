@@ -2,29 +2,6 @@
 
 List of paste bins of Syndicate members
 
-### Avestura
-
-_avestura/bin_
-
-📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
-
-- Editor: CodeMirror 6
-- Backend Language: TypeScript
-- Frontend Language: TypeScript
-- Frontend Framework: React / Next / Blueprint
-- Storage: S3 Compatible MinIO Object Storage
-
-### Darvesh
-
-_darvesh/drvsh_
-
-📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) / 🍴 Fork of _"mojurasu/memocho"_
-
-- Editor: Vanilla HTML
-- Backend Language: JavaScript
-- Frontend Language: JavaScript
-- Frontend Framework: Mithril SSR
-- Storage: MongoDB
 
 ### Muthu
 
@@ -43,6 +20,18 @@ _mkr/bin_
 _mojurasu/memocho_
 
 📄 [b.sitischu.com](https://b.sitischu.com/) / [Source](https://github.com/mojurasu/memocho) / 🍴 Fork of _"mkr/bin"_
+
+- Editor: Vanilla HTML
+- Backend Language: JavaScript
+- Frontend Language: JavaScript
+- Frontend Framework: Mithril SSR
+- Storage: MongoDB
+
+### Darvesh
+
+_darvesh/drvsh_
+
+📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) / 🍴 Fork of _"mojurasu/memocho"_
 
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
@@ -73,3 +62,15 @@ _batbin_
 - Frontend Language: JavaScript
 - Frontend Framework: React / Next
 - Storage: File System
+
+### Avestura
+
+_avestura/bin_
+
+📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
+
+- Editor: CodeMirror 6
+- Backend Language: TypeScript
+- Frontend Language: TypeScript
+- Frontend Framework: React / Next / Blueprint
+- Storage: S3 Compatible MinIO Object Storage
