@@ -14,6 +14,8 @@ List of paste bins of Syndicate members
 
 ### Darvesh
 
+_darvesh/drvsh_
+
 📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) / 🍴 Fork of _"mojurasu/memocho"_
 
 - Editor: Vanilla HTML
@@ -48,6 +50,8 @@ _mojurasu/memocho_
 
 ### Spark
 
+_fosslife/bin_
+
 📄 [pupr.io](https://pupr.io) / [Source](https://github.com/fosslife/bin)
 
 - Editor: Monaco Editor
@@ -57,6 +61,8 @@ _mojurasu/memocho_
 - Storage: File System
 
 ### Udit
+
+_batbin_
 
 📄 [b.uditkaro.de](https://b.uditkaro.de) / [Source](https://github.com/batbin-org)
 
