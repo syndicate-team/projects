@@ -14,7 +14,7 @@ List of paste bins of Syndicate members
 
 ### Darvesh
 
-📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh)
+📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) (fork of bin.mkr.pw)
 
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
