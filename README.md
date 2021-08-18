@@ -23,7 +23,7 @@ _darvesh/drvsh_
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
-- Frontend Framework: Mithril
+- Frontend Framework: Mithril SSR
 - Storage: MongoDB
 
 ### Muthu
@@ -35,7 +35,7 @@ _mkr/bin_
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
-- Frontend Framework: Mithril
+- Frontend Framework: Mithril SSR
 - Storage: MongoDB
 
 ### Simon
@@ -47,7 +47,7 @@ _mojurasu/memocho_
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
-- Frontend Framework: Mithril
+- Frontend Framework: Mithril SSR
 - Storage: MongoDB
 
 ### Spark
