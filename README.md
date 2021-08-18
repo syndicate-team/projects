@@ -24,7 +24,7 @@ _darvesh/drvsh_
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril
-- Storage: File System
+- Storage: MongoDB
 
 ### Muthu
 
@@ -36,7 +36,7 @@ _mkr/bin_
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril
-- Storage: File System
+- Storage: MongoDB
 
 ### Simon
 
@@ -48,7 +48,7 @@ _mojurasu/memocho_
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril
-- Storage: File System
+- Storage: MongoDB
 
 ### Spark
 
