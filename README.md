@@ -14,7 +14,7 @@ List of paste bins of Syndicate members
 
 ### Darvesh
 
-📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) (fork of bin.mkr.pw)
+📄 [b.darve.sh](https://b.darve.sh/) / [Source](https://github.com/darvesh/drvsh) (🍴 Fork of mojurasu/memocho)
 
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
@@ -22,15 +22,19 @@ List of paste bins of Syndicate members
 - Frontend Framework: Mithril
 - Storage: File System
 
-### Muthu
+### Muthu (mkr/bin)
 
-📄 [bin.mkr.pw](https://bin.mkr.pw/) / [Source](https://github.com/MKRhere/bin)
+📄 [bin.mkr.pw](https://bin.mkr.pw/) / [Source](https://github.com/MKRhere/bin) 
 
 - Editor: Vanilla HTML
 - Backend Language: JavaScript
 - Frontend Language: JavaScript
 - Frontend Framework: Mithril
 - Storage: File System
+
+### Simon (mojurasu/memocho)
+
+📄 [b.sitischu.com](https://b.sitischu.com/) / [Source](https://github.com/mojurasu/memocho) (🍴 Fork of mkr/bin)
 
 ### Spark
 
