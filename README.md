@@ -10,7 +10,7 @@ _avestura/bin_
 
 - Editor: CodeMirror 6
 - Backend Language: TypeScript
-- Frontned Language: TypeScript
+- Frontend Language: TypeScript
 - Frontend Framework: React / Next / Blueprint
 - Storage: S3 Compatible MinIO Object Storage
 
