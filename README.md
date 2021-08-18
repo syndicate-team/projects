@@ -4,9 +4,9 @@ List of paste bins of Syndicate members
 
 ### Avestura
 
-📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
-
 _avestura/bin_
+
+📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
 
 - Editor: CodeMirror 6
 - Backend Language: TypeScript
