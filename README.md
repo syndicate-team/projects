@@ -79,7 +79,7 @@ _batbin_
 
 _avestura/bin_
 
-📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary
+📄 [b.avestura.dev](https://www.avestura.dev/paste) / Proprietary / [More Info](https://www.avestura.dev/projects/pastebin)
 
 - Editor: CodeMirror 6
 - Backend Language: TypeScript / Node
