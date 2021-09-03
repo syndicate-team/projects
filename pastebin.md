@@ -39,6 +39,17 @@ _darvesh/drvsh_
 - Frontend Framework: Mithril SSR
 - Storage: MongoDB
 
+
+_IPFS Bin_
+
+📄 [bin.ipfs.darve.sh](https://ipfs.io/ipfs/QmRpmroNEfsexrmJbU5FXkhxWPzr2WmTUrb7BgJHKBNk7V?filename=index.html) / [Source](https://gist.github.com/darvesh/a9041be397f89806f2efdc13bd9d2c95)
+
+- Editor: Vanilla HTML
+- Backend: _No Backend_
+- Frontend Language: JavaScript
+- Storage: IPFS
+
+
 ### Thomas
 
 _trgwii/pastebin_
