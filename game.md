@@ -49,3 +49,13 @@ _avestura/othello-ai-minmax_
 - Players: 1 / 2
 - AI: ✔ Yes
 
+_uditkarode/DangerBuggy_
+
+🎯 **DangerBuggy** / [Source](https://github.com/uditkarode/DangerBuggy)
+
+- Written In: C++
+- Platforms: DOS (usable through DOSBOX)
+- Genre: Racing
+- Category: Racing
+- Players: 1
+- AI: ❌ No
